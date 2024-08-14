@@ -1,7 +1,6 @@
-<script setup>
-</script>
-
 <template>
-  <main>
+  <main class="container">
   </main>
 </template>
+
+<script setup></script>
